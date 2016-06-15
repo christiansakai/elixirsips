@@ -10,7 +10,7 @@ use Mix.Config
 
 # You can configure for your application as:
 #
-    config :qcacm_slack, key: "xoxb-50956602915-BABuBEAb6Zed0zIHHonaNxMY"
+    config :qcacm_slack, key: "xxx"
 #
 # And access this configuration in your application as:
 #
