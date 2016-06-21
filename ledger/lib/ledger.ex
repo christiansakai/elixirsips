@@ -1,0 +1,2 @@
+defmodule Ledger do
+end
